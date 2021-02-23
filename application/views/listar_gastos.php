@@ -9,14 +9,17 @@
 <body>
     <h1>Lista de Gastos do Mês de Fevereiro</h1>
    <table>
+
        <tr>
-           <td>Datas:</td> <td>Descrição:<td></td>Valor:</td>
+           <td>Datas:</td> <td>Descrição:</td> <td>Valor:</td>
        </tr>
+
        <tr>
-           <td>01/02/2021</td> <td>Salgado<td></td>R$ 1,50</td>
+           <td>01/02/2021</td> <td>Salgado</td> <td>R$ 1,50</td>
        </tr>
+
        <tr>
-           <td>02/02/2021</td> <td>impressão de trabalho (10 páginas)<td></td>R$ 4,00</td>
+           <td>02/02/2021</td> <td>impressão de trabalho (10 páginas)</td> <td>R$ 4,00</td>
        </tr>
    </table>
 </body>
